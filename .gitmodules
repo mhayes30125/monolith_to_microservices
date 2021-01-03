@@ -1,0 +1,12 @@
+[submodule "user"]
+	path = user
+	url = https://github.com/mhayes30125/monolith_to_microservices_user.git
+[submodule "feed"]
+	path = feed
+	url = https://github.com/mhayes30125/monolith_to_microservices_feed.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/mhayes30125/monolith_to_microservices_udagram_frontend.git
+[submodule "reverse_proxy"]
+	path = reverse_proxy
+	url = https://github.com/mhayes30125/monolith_to_microservices_reverse_proxy.git
